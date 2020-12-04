@@ -17,10 +17,10 @@ Se tudo ocorrer bem, você será capaz e executar as duas próximas etapas.
 
 3 - **Executando script para teste manuais**
 
-- python main.py -i <imagem>
+- python3 main.py -i imagem
 
 Exemplo de execução:
-- python main.py -i 0000_soil.png
+- python3 main.py -i 0000_soil.png
 
 .
 
