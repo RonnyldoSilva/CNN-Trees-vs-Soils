@@ -2,6 +2,8 @@
 
 Desenvolver um classificador que identifica se uma imagem é uma árvore, ou um solo.
 
+![Exemplo](https://github.com/RonnyldoSilva/CNN-Trees-vs-Soils/blob/main/img/example.png)
+
 # Como executar?  
 
 1 - Instale o Docker e execute os seguintes comandos:
