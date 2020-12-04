@@ -1,0 +1,14 @@
+sudo apt update
+
+sudo apt install python3
+sudo apt install python3-pip
+
+sudo pip3 install jupyter
+
+sudo apt-get install python3-opencv
+sudo pip3 install tqdm
+
+sudo pip3 install tflearn
+sudo pip3 install tensorflow
+
+sudo pip3 install matplotlib
