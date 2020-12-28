@@ -1,4 +1,6 @@
-# Desafio Visão Computacional
+# Classificação de árvores e solos {CNN, OpenCV, Python}
+
+:star::star::star::star::star: (If it was useful, leave a star)
 
 Desenvolver um classificador que identifica se uma imagem é uma árvore, ou um solo.
 
